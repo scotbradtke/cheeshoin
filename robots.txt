@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://waigha.thelegacyofearth.com/sitemap.xml
